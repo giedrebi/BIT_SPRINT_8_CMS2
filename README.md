@@ -45,6 +45,9 @@ https://github.com/giedrebi/BIT_SPRINT_8_CMS2.git
 10. Open your browser and in the search bar type:
 
 `localhost/BIT_SPRINT_8_CMS2/`
+`localhost/BIT_SPRINT_8_CMS2/admin.php`
+  - `username: admin`
+  - `password: admin1234`.
 
 ### Author
 
