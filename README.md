@@ -6,7 +6,7 @@ This project was made for learning purposes.
 
 ### About project
 
-* This project was created using OOP PHP, CSS and Bootstrap. Database and tables with employees and projects information was made with MySQL Workbench.
+* This project was created using OOP PHP, CSS and Bootstrap. Database and tables was made with MySQL Workbench.
 
 * This CMS have admin login, so when you loged in to this system, you can:
     - add articles (with HTML),
